@@ -1,0 +1,15 @@
+{
+  "manifestVersion": 1,
+  "updatedAt": "2026-03-30T00:00:00Z",
+  "items": [
+    {
+      "id": "item_001",
+      "type": "interactive_game",
+      "gameId": "endless_runner",
+      "bundleVersion": "1.0.0",
+      "bundleUrl": "https://raw.githubusercontent.com/ТВІЙ_ЮЗЕРНЕЙМ/toktok-content/main/games/endless_runner-1.0.0.zip",
+      "sha256": "placeholder_hash_until_archive_ready",
+      "minimumRuntimeVersion": "1.0.0"
+    }
+  ]
+}
