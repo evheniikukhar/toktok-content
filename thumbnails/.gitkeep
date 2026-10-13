@@ -1,0 +1,7 @@
+toktok-content/
+├── README.md
+├── feed.json
+├── games/
+│   └── catalog.json
+└── thumbnails/
+    └── .gitkeep
