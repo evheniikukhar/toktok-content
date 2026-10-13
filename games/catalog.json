@@ -1,0 +1,14 @@
+{
+  "games": [
+    {
+      "gameId": "endless_runner",
+      "name": "Endless Runner",
+      "supportedCapabilities": ["SAVE_STATE", "RESTORE_STATE"]
+    },
+    {
+      "gameId": "operation_ironhold",
+      "name": "Operation Ironhold",
+      "supportedCapabilities": []
+    }
+  ]
+}
